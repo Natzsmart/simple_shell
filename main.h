@@ -27,7 +27,7 @@ extern char **environ;
  * @status: last status of the shell
  * @counter: lines counter
  * @_environ: environment variable
- * @pid: process ID of the shell
+ * @pid: process ID of the shell.
  */
 typedef struct data
 {
